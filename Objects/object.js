@@ -3,7 +3,7 @@
   GITHUB: https://github.com/FutureMulenga/JavaScript-.git
 */
 
-
+//declararion of an object
 const Person ={
      
     first_name: "Future",
@@ -11,4 +11,6 @@ const Person ={
     age_: 22
 }
 
-console.log(Person);
+
+//accessing the data in the object  using dot notation
+console.log(Person.first_name);
